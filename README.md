@@ -1,1 +1,2 @@
-# Password-generator
+# Password-generator 
+SecurePass Generator is a user-friendly website crafted with HTML, CSS, JavaScript, and Tailwind CSS, designed to help you create strong and secure passwords effortlessly. This password generator offers a variety of options, allowing you to customize your passwords based on length, complexity, and specific character sets. With a sleek and intuitive interface, SecurePass Generator ensures the generation of robust passwords with combinations of letters, numbers, and special characters, enhancing your online security. Take control of your digital safety by easily generating unique and reliable passwords for your accounts.
